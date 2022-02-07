@@ -1,0 +1,25 @@
+{
+	"type": "crafting_shaped",
+	"result": {
+		"item": "minecraft:elytra",
+		"count": 1
+	},
+	"pattern": ["PSP", "SES", "MDM"],
+	"key": {
+		"P": {
+			"item": "minecraft:purpur_block"
+		},
+		"S": {
+			"item": "minecraft:shulker_shell"
+		},
+		"D": {
+			"item": "minecraft:diamond"
+		},
+		"E": {
+			"item": "minecraft:ender_eye"
+		},
+		"M": {
+			"item": "minecraft:phantom_membrane"
+		}
+	}
+}
