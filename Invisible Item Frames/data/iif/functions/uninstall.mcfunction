@@ -1,5 +1,5 @@
 # Remove function and scoreboard
-schedule clear astands:tick
-scoreboard objectives remove astands.config
+schedule clear iif:tick
+scoreboard objectives remove iif.setting
 
-tellraw @s {"text":"Armed Stands has been uninstalled properly, you may now remove the datapack folder."}
+tellraw @s {"text":"Invisible Item Frames has been uninstalled properly, you may now remove the datapack folder."}
