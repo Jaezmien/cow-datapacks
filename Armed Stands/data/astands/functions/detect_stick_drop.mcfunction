@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:armor_stand,nbt={ShowArms: 0b}] at @s if entity @e[type=minecraft:item,nbt={Item: {id: "minecraft:stick"}},distance=..1] run data modify entity @s ShowArms set value 1b
