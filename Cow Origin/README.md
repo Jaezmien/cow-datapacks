@@ -18,7 +18,7 @@ Your prey nature's flight response gives you a 5 second speed boost when you're 
 ### ➕ Milkable
 Your bovine nature allows players to milk you, even yourself.
 
-Use the primary keys hotkey while holding an empty bucket to milk yourself.
+*Use the Primary Active Power hotkey while holding an empty bucket to milk yourself.*
 
 ### ❔ Sliced Up
 When hit, you have a small chance of dropping leather, and an extremely small chance of dropping raw beef.
