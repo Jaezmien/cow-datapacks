@@ -1,0 +1,17 @@
+{
+	"name": "Cow",
+	"description": "Cows are passive bovine creatures of the Overworld.",
+	"powers": [
+		"coworigin:flight",
+		"coworigin:milkable",
+		"coworigin:drops",
+		"origins:vegetarian",
+		"origins:fragile",
+		"origins:more_exhaustion"
+	],
+	"icon": {
+		"item": "minecraft:milk_bucket"
+	},
+	"impact": 1,
+	"order": 4
+}
