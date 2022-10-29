@@ -12,8 +12,11 @@
 
 ## Powers:
 
+### ➕ Hard Hooved
+Unarmed attacks deals 1.00x more damage.
+
 ### ➕ Flight Response
-Your prey nature's flight response gives you a 5 second speed boost when you're hurt by anything.
+Your flight response gives you a 5 second speed boost when you're hit.
 
 ### ➕ Milkable
 Your bovine nature allows players to milk you, even yourself.
