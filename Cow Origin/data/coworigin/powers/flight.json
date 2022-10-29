@@ -9,7 +9,9 @@
 			"type": "origins:apply_effect",
 			"effect": {
 				"effect": "minecraft:speed",
-				"duration": 100
+				"duration": 100,
+				"show_particles": false,
+				"show_icon": false
 			}
 		}
 	}
