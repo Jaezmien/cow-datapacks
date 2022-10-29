@@ -13,7 +13,7 @@
 ## Powers:
 
 ### ➕ Hard Hooved
-Unarmed attacks cause 2 hearts damage, critical unarmed attack cause 3 hearts of damage
+Unarmed attacks deals 1.00x more damage.
 
 ### ➕ Flight Response
 Your flight response gives you a 5 second speed boost when you're hit.
