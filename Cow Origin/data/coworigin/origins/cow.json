@@ -2,6 +2,7 @@
 	"name": "Cow",
 	"description": "Cows are passive bovine creatures of the Overworld.",
 	"powers": [
+		"coworigin:hooved",
 		"coworigin:flight",
 		"coworigin:milkable",
 		"coworigin:drops",

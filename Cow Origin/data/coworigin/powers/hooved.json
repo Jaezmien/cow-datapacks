@@ -1,0 +1,70 @@
+{
+	"name": "Hard Hooved",
+	"description": "Unarmed attacks cause 2 hearts of damage - 3 hearts on critical attacks.",
+
+	"type": "origins:multiple",
+	"normal_hit": {
+		"type": "origins:action_on_hit",
+		"damage_condition": {
+			"type": "origins:and",
+			"conditions": [
+				{
+					"type": "origins:name",
+					"name": "player"
+				},
+				{
+					"type": "origins:amount",
+					"comparison": "==",
+					"compare_to": "1"
+				}
+			]
+		},
+		"bientity_action": {
+			"type": "origins:target_action",
+			"action": {
+				"type": "origins:damage",
+				"amount": 4,
+				"source": {
+					"name": "player"
+				}
+			}
+		}
+	},
+	"critical_hit": {
+		"type": "origins:action_on_hit",
+		"damage_condition": {
+			"type": "origins:and",
+			"conditions": [
+				{
+					"type": "origins:name",
+					"name": "player"
+				},
+				{
+					"type": "origins:and",
+					"conditions": [
+						{
+							"type": "origins:amount",
+							"comparison": ">",
+							"compare_to": "1"
+						},
+						{
+							"type": "origins:amount",
+							"comparison": "<=",
+							"compare_to": "2"
+						}
+					]
+				}
+			]
+		},
+		"bientity_action": {
+			"type": "origins:target_action",
+			"action": {
+				"type": "origins:damage",
+				"amount": 6,
+				"source": {
+					"name": "player"
+				}
+			}
+		}
+	}
+}
