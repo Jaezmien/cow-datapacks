@@ -6,16 +6,6 @@
 
 </div>
 
-The recipe requires:
+## Recipe
 
--   3 **S**hulker **S**hells
--   2 **P**hantom **M**embranes
--   2 **P**urpur **B**locks
--   1 **Di**amond
--   1 **E**ye of **E**nder
-
-In the order:
-
--   `PB` `SS` `PB`
--   `SS` `Di` `SS`
--   `PM` `EE` `PM`
+![Crafting Recipe](./recipe.png)
